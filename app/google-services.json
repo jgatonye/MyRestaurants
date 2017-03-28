@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "1081511891309",
+    "firebase_url": "https://myrestaurants-7a857.firebaseio.com",
+    "project_id": "myrestaurants-7a857",
+    "storage_bucket": "myrestaurants-7a857.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1081511891309:android:97c6a2495ed9df5d",
+        "android_client_info": {
+          "package_name": "com.maina.myrestaurants"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1081511891309-sd3cmcgcb53aj4hoq60p399b01k2jaqm.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.maina.myrestaurants",
+            "certificate_hash": "19c90a6fe93fc946034f4f601dbdd25ab4be6e49"
+          }
+        },
+        {
+          "client_id": "1081511891309-vb4tq8ksg344no66tu7a2sfsd2jvv2ho.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgvWBDYb9SlgiaMzACPNZegpwK5vV608I"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1081511891309-vb4tq8ksg344no66tu7a2sfsd2jvv2ho.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

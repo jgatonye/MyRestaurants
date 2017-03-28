@@ -6,6 +6,8 @@ package com.maina.myrestaurants;
 import android.support.test.rule.ActivityTestRule;
 import android.view.View;
 
+import com.maina.myrestaurants.ui.RestaurantListActivity;
+
 import org.junit.Rule;
 import org.junit.Test;
 
@@ -22,8 +24,8 @@ import static org.hamcrest.core.IsNot.not;
 public class RestaurantsActivityInstrumentationTest {
 
     @Rule
-    public ActivityTestRule<RestaurantsActivity> activityActivityTestRule =
-            new ActivityTestRule<RestaurantsActivity>(RestaurantsActivity.class);
+    public ActivityTestRule<RestaurantListActivity> activityActivityTestRule =
+            new ActivityTestRule<RestaurantListActivity>(RestaurantListActivity.class);
 
     @Test
     public void listItemClickDisplaysToastWithCorrectRestaurant(){

@@ -1,4 +1,4 @@
-package com.maina.myrestaurants;
+package com.maina.myrestaurants.ui;
 
 //import ArrayAdapter;
 
